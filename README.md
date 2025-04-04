@@ -2,9 +2,15 @@
 
 ## A High-Fidelity Visual Simulator for Autonomous Surface Vehicles
 
+![VisualSimBoat Interface](fig-visualsimboat.jpg)
+
 VisualSimBoat is an open-source, high-fidelity simulator specifically designed for Unmanned Surface Vehicles (USVs). Built on Unreal Engine and integrated with Cesium for geospatial accuracy, it enables the creation of realistic maritime environments that replicate dynamic conditions worldwide.
 
-![VisualSimBoat Interface](link-para-uma-screenshot.png)
+## Analytics Dashboard
+
+![Analytics Dashboard](fig-analytics-sf1.png)
+
+The simulator provides comprehensive analytics and visualization tools for navigation data analysis and route planning.
 
 ## Features
 
